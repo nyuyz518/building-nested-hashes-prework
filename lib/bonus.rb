@@ -24,9 +24,9 @@ def bonus
    
    }
   }
-end 
 
 epic_tragedy[:montague][:hero][:status] = "dead"
 epic_tragedy[:capulet][:heroine][:status] = "dead" 
   
-puts bonus
+epic_tragedy
+end
