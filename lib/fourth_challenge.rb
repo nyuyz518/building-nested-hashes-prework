@@ -32,7 +32,6 @@ def fourth_challenge
            :age => "44",
            :attitude => "worried"}
            ]
-
    }
 }
 
